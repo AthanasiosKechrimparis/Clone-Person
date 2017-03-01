@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClonePerson", "..\..\..\..\Documents\Visual Studio 2015\Projects\ClonePerson\ClonePerson\ClonePerson.csproj", "{AD393D1C-7988-47DC-9EA5-180732CCB849}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloneExcercise", "CloneExcercise\CloneExcercise.csproj", "{065AC8E1-C886-478E-9BEF-BE4390BF7F04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AD393D1C-7988-47DC-9EA5-180732CCB849}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD393D1C-7988-47DC-9EA5-180732CCB849}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD393D1C-7988-47DC-9EA5-180732CCB849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065AC8E1-C886-478E-9BEF-BE4390BF7F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065AC8E1-C886-478E-9BEF-BE4390BF7F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065AC8E1-C886-478E-9BEF-BE4390BF7F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065AC8E1-C886-478E-9BEF-BE4390BF7F04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
